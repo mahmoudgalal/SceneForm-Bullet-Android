@@ -16,6 +16,9 @@ For your convenience,a pre-built bullet Lib is provided for the <b>arm64</b> ABI
 
 You are now ready to build the integration,just open the project in android studio and see it working.
 
+### Using The Demo:<br/>
+- Click the light-blue circular Button to Throw a random physical body: Sphere,Cylinder or a Cube.
+- Tap on any body in the scene to apply an upward force to it.
 
 ![](https://github.com/mahmoudgalal/SceneForm-Bullet/blob/master/ScreenShots/device-2018-12-15-193507.png)
 ![](https://github.com/mahmoudgalal/SceneForm-Bullet/blob/master/ScreenShots/device-2018-12-15-193547.png)
